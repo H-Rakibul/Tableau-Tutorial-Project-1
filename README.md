@@ -7,10 +7,10 @@ Welcome to the repository for our interactive Tableau sales dashboard, where dat
 
 This repository contains:
 
-- **The Tableau Dashboard Image:** A snapshot of our vibrant dashboard, giving you a quick glimpse of the insights at your fingertips.
-- ** Tableau Workbook File (.twb/.twbx):** The actual Tableau workbook allows you to interact with the dashboard, explore the data, and customize it to your needs.
-- ** Data Source (CSV/Excel):**  The dataset is used to create the dashboard, enabling you to replicate and expand upon our analysis.
-- ** This README.md:** Your guide to understanding the dashboard and its components.
+- The Tableau Dashboard Image: A snapshot of our vibrant dashboard, giving you a quick glimpse of the insights at your fingertips.
+- Tableau Workbook File (.twb/.twbx): The actual Tableau workbook allows you to interact with the dashboard, explore the data, and customize it to your needs.
+- Data Source (CSV/Excel):  The dataset is used to create the dashboard, enabling you to replicate and expand upon our analysis.
+- README.md: Your guide to understanding the dashboard and its components.
 
 ## Decoding the Visuals 🔍
 
